@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/css/main.a8eb5d9c.chunk.css",
-    "main.js": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/main.fc40e8b3.chunk.js",
-    "main.js.map": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/main.fc40e8b3.chunk.js.map",
-    "runtime-main.js": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/runtime-main.d9a6df9d.js",
-    "runtime-main.js.map": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/runtime-main.d9a6df9d.js.map",
-    "static/js/2.b7dc13cc.chunk.js": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/2.b7dc13cc.chunk.js",
-    "static/js/2.b7dc13cc.chunk.js.map": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/2.b7dc13cc.chunk.js.map",
-    "index.html": "/pipe2k27/HotelSurf-React.js-Hotel-Website/index.html",
-    "precache-manifest.0e80c9f896905b7a3c689e44374370a2.js": "/pipe2k27/HotelSurf-React.js-Hotel-Website/precache-manifest.0e80c9f896905b7a3c689e44374370a2.js",
-    "service-worker.js": "/pipe2k27/HotelSurf-React.js-Hotel-Website/service-worker.js",
-    "static/css/main.a8eb5d9c.chunk.css.map": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/css/main.a8eb5d9c.chunk.css.map",
-    "static/js/2.b7dc13cc.chunk.js.LICENSE.txt": "/pipe2k27/HotelSurf-React.js-Hotel-Website/static/js/2.b7dc13cc.chunk.js.LICENSE.txt"
+    "main.css": "/Hotel-Surf-React-build/static/css/main.a8eb5d9c.chunk.css",
+    "main.js": "/Hotel-Surf-React-build/static/js/main.1dcbcbc3.chunk.js",
+    "main.js.map": "/Hotel-Surf-React-build/static/js/main.1dcbcbc3.chunk.js.map",
+    "runtime-main.js": "/Hotel-Surf-React-build/static/js/runtime-main.4d14c37c.js",
+    "runtime-main.js.map": "/Hotel-Surf-React-build/static/js/runtime-main.4d14c37c.js.map",
+    "static/js/2.b7dc13cc.chunk.js": "/Hotel-Surf-React-build/static/js/2.b7dc13cc.chunk.js",
+    "static/js/2.b7dc13cc.chunk.js.map": "/Hotel-Surf-React-build/static/js/2.b7dc13cc.chunk.js.map",
+    "index.html": "/Hotel-Surf-React-build/index.html",
+    "precache-manifest.1fdad7d89a385a33fc936961857c8a90.js": "/Hotel-Surf-React-build/precache-manifest.1fdad7d89a385a33fc936961857c8a90.js",
+    "service-worker.js": "/Hotel-Surf-React-build/service-worker.js",
+    "static/css/main.a8eb5d9c.chunk.css.map": "/Hotel-Surf-React-build/static/css/main.a8eb5d9c.chunk.css.map",
+    "static/js/2.b7dc13cc.chunk.js.LICENSE.txt": "/Hotel-Surf-React-build/static/js/2.b7dc13cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9a6df9d.js",
+    "static/js/runtime-main.4d14c37c.js",
     "static/js/2.b7dc13cc.chunk.js",
     "static/css/main.a8eb5d9c.chunk.css",
-    "static/js/main.fc40e8b3.chunk.js"
+    "static/js/main.1dcbcbc3.chunk.js"
   ]
 }
