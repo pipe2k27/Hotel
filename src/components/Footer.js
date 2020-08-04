@@ -5,7 +5,7 @@ export default class Footer extends React.Component {
       <div>
         <div className="footer">
           <img
-            src={process.env.PUBLIC_URL + "./images/surf-logo2.png"}
+            src={process.env.PUBLIC_URL + "/images/surf-logo2.png"}
             alt="Hotel Surf"
             className="logo"
           />
